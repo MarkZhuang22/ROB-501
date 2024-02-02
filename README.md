@@ -40,9 +40,6 @@ The repository is organized by assignment, with each folder containing the relev
 ## Contributing
 For contributions or issues, please open an issue to discuss proposed changes or report bugs.
 
-## License
-This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
-
 ## Contact
 Issues and inquiries can be addressed by opening an issue on the repository.
 
